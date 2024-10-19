@@ -1,6 +1,6 @@
-# Program to check if two numbers are equal
 
-# Take input from the user
+
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 

@@ -25,15 +25,16 @@ elif fav_color == "blue":
 else:
     print ("Its not my fav colors:( ")
  
+'''
 
-age = int(input ("Ypur age: "))
-if age >= 18 and age <= 65:
+age = int(input ("Your age: "))
+if age >= 18 and age <= 60:
     print ("Adult ka na bes")
-elif age > 65:
+elif age > 60:
     print ("senior ka na po")
 else:
-    print("yuck minors")
+    print("ewww minors")
 
-    imp notes 
-    -if you will do input kemrut always put in the end the .lower()
-       '''
+    #imp notes 
+    #-if you will do input kemrut always put in the end the .lower()- for lower case
+       

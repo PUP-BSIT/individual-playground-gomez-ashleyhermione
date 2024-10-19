@@ -43,4 +43,7 @@ age = int(input ("Your age: " ))
 
 age = age + 5
 print (f"Your age with plus 5 is: {age}")
+
+ age = int(input("your age: "))
+ 
 '''
