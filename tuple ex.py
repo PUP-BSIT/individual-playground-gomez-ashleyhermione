@@ -30,6 +30,30 @@ numbers = (10, 20, 5, 40, 25)
 print(min_and_max(numbers))  # Output: (5, 40)
 
 
+
+
+dict = { "message": "Hello world!" }
+dict["language"] = "english"
+print(dict)
+
+
+dict = { "message": "Hello world!" }
+dict["message"] = "Hi There!"
+print(dict)
+
+
+response_data = {
+ "status_code": 200,
+ "countries": ["Philippines","Japan","China"],
+ "cities": {
+   "Philippines": "Manila",
+   "Japan": "Tokyo",
+   "Korea": "Seoul",
+ },
+}
 """
-
-
+response = (200,
+        {'Content-Type': 'application/=json'},
+        '{name : : "Alice}')
+status_code, headers, body = response
+print (type(status_code), )
