@@ -1,0 +1,14 @@
+/* Background color */
+body {
+    background-color: lightblue;
+}
+
+/* Heading color */
+h1 {
+    color: darkblue;
+}
+
+/* Paragraph styling */
+p {
+    color: darkred;
+}
